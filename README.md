@@ -102,7 +102,7 @@ Solving the bottleneck of OpenClaw adaptation: Not ~~skills~~, but finding **way
 
 | Name | Description |
 |------|-------------|
-| [AI-Native ERP](usecases/ai-native-erp.md) | Full ERP — accounting, payroll, inventory, CRM — in natural language. One install, auto-detects your industry. |
+| [AI-Native ERP](usecases/ai-native-erp.md) | Full ERP (accounting, payroll, inventory, CRM) in natural language. One install, auto-detects your industry. |
 
 ## 🤝 Contributing
 

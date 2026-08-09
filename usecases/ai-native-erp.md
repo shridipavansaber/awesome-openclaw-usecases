@@ -41,10 +41,10 @@ erpclaw auto-detects the industry, pulls the food & beverage vertical from GitHu
 **Step 3: Connect Stripe**
 
 ```text
-I process payments through Stripe. Here is my API key: rk_live_YOUR_RESTRICTED_KEY
+I process payments through Stripe. Here is my API key: <YOUR_STRIPE_RESTRICTED_KEY>
 ```
 
-> `rk_live_YOUR_RESTRICTED_KEY` is a placeholder, not a real key. Use a Stripe restricted key scoped to only what erpclaw needs (not your full secret key), and rotate any key that is ever exposed.
+> `<YOUR_STRIPE_RESTRICTED_KEY>` is a placeholder, not a key. Use a Stripe restricted key scoped to only what erpclaw needs (never your full secret key), and rotate any key that is ever exposed.
 
 **Step 4: Sync and reconcile payments**
 
